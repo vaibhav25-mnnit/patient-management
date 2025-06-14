@@ -1,0 +1,6 @@
+[submodule "patient-service"]
+	path = patient-service
+	url = https://github.com/vaibhav25-mnnit/patient_service.git
+[submodule "billing-service"]
+	path = billing-service
+	url = https://github.com/vaibhav25-mnnit/billing-service.git
