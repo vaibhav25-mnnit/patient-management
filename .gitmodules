@@ -4,3 +4,6 @@
 [submodule "billing-service"]
 	path = billing-service
 	url = https://github.com/vaibhav25-mnnit/billing-service.git
+[submodule "analytics-service"]
+	path = analytics-service
+	url = git@github.com:vaibhav25-mnnit/analytics_service.git
