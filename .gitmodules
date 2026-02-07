@@ -7,3 +7,6 @@
 [submodule "analytics-service"]
 	path = analytics-service
 	url = git@github.com:vaibhav25-mnnit/analytics_service.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:vaibhav25-mnnit/api-gateway.git
