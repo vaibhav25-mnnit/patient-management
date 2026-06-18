@@ -10,3 +10,6 @@
 [submodule "api-gateway"]
 	path = api-gateway
 	url = git@github.com:vaibhav25-mnnit/api-gateway.git
+[submodule "document-service"]
+	path = document-service
+	url = https://github.com/vaibhav25-mnnit/document-service.git
